@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is bunsai and I'm a 20, from Zamboanga City</p>
+<p align="left">My name is bunsai and I'm  20, from Zamboanga City</p>
 
 ###
 

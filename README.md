@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is bunsai and I'm a 20, from Zamboanga City</p>
 
 ###
 

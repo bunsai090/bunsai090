@@ -88,20 +88,21 @@ Excited to collaborate and grow as a developer! 🙌
 ---
 
 
-### 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="40">
+### 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50">
 
 <p align="left">
 
 🎮 **Playing Games**  
-<img src="https://media.giphy.com/media/2WhxXGsto7i7e/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/2WhxXGsto7i7e/giphy.gif" width="280">
 
-📺 **Watching Anime**  
-<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200">
+📺 **Watching Anime (One Piece)**  
+<img src="https://media.giphy.com/media/ho0xXatV7b3Fo1ZRXN/giphy.gif" width="280">
 
 🏀 **Playing Sports**  
-<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="280">
 
 </p>
+
 
 ---
 

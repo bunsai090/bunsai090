@@ -17,11 +17,15 @@ Excited to collaborate and grow as a developer! 🙌
 
 ### 🚀 About Me
 <p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
+
 ✨ Creating bugs since <strong>2022</strong> <br>
 📚 Currently learning <strong>Front-End Development</strong> <br>
 🎯 Goal: Become a <strong>skilled and reliable developer</strong> <br>
 🎲 Fun fact: I can break code faster than I can fix it 😆  
 </p>
+<br><br><br>
+
 
 ---
 

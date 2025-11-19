@@ -39,7 +39,7 @@ Excited to collaborate and grow as a developer! 🙌
 
 <h1 align="center">
 🛠️ My Skills <br>
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="60">
+
 </h1>
 
 <div align="center">
@@ -87,23 +87,23 @@ Excited to collaborate and grow as a developer! 🙌
 
 ---
 
-
 ### 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50">
 
 <p align="left">
 
-🎮 **Playing Games 
-<img src="https://media.giphy.com/media/5t9Icydk6XvKAC2rGe/giphy.gif" width="280">
+🎮 **Playing Games (Valorant)**  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZxNzZjNHE5MHlxN2l1bHFiNnhmb2JrdHF1N2ZwNGljbzl3bmN2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
 
-📺 **Watching Anime 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2txOXF4dnNzb2VzOHYwdm1hbGZ5aWZ3bzJtY2cwZ2VneXphY2traiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FB5dGBGY7v5EcRy/giphy.gif" width="280">
+📺 **Watching Anime (Luffy Nika)**  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNwbnh0ZDY1ZWJrM2E2YzF1Y3ZsM2RrNmFzZWR2cDRqdXJ0YjdlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RO4P0k5nH0YQ0/giphy.gif" width="280">
 
-🥎 **Playing Sports   
-<img src="https://media.giphy.com/media/3ohfFDZCq2uXqkRkSY/giphy.gif" width="280">
+🥎 **Playing Sports (Softball)**  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrdXVyNmNmOTQyN2ltYW9hdGM3bjVndnkxdHFlbWdla3FhdnAwcyZlcP12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcO6z2/giphy.gif" width="280">
 
 </p>
 
 ---
+
 
 
 <h3 align="center">⭐ Thanks for checking out my profile!</h3>

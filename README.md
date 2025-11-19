@@ -13,3 +13,14 @@ I’m currently studying <strong>Information Technology</strong> at <strong>Zamb
 I love creating clean, responsive, and user-friendly designs.  
 Excited to collaborate and grow as a developer! 🙌
 </p>
+---
+
+### 🚀 About Me
+<p align="left">
+✨ Creating bugs since <strong>2022</strong> <br>
+📚 Currently learning <strong>Front-End Development</strong> <br>
+🎯 Goal: Become a <strong>skilled and reliable developer</strong> <br>
+🎲 Fun fact: I can break code faster than I can fix it 😆  
+</p>
+
+---

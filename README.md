@@ -91,11 +91,12 @@ Excited to collaborate and grow as a developer! 🙌
 
 <p align="left">
 
-🎮 **Playing Games (Valorant)**  
+🎮 **Playing Games **  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZxNzZjNHE5MHlxN2l1bHFiNnhmb2JrdHF1N2ZwNGljbzl3bmN2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
 
-📺 **Watching Anime (Luffy Nika)**  
-<img src="https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG">
+📺 **Watching Anime **  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxycmJibXl2b3Fsc3NqNmp6aWtxemN0YXphYmhnbGZxYzNhNjBtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yoJC2GnSClbPOkV0eA/giphy.gif" width="280">
+
 
 </p>
 

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
 </p>
 
-<h1 align="center">🌸 Hey 👋 I'm Codee!!! 🌸</h1>
+<h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
 
 <p align="center">
 ✨ Cute Dev • Front-End Student • IT Enthusiast ✨  

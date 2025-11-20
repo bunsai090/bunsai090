@@ -97,8 +97,6 @@ Excited to collaborate and grow as a developer! 🙌
 📺 **Watching Anime (Luffy Nika)**  
 <img src="https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG">
 
-="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrdXVyNmNmOTQyN2ltYW9hdGM3bjVndnkxdHFlbWdla3FhdnAwcyZlcP12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcO6z2/giphy.gif" width="280">
-
 </p>
 
 ---

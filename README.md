@@ -23,24 +23,34 @@ Excited to collaborate and grow as a developer! 🙌
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+</p>
+
+---
+
 ### 🚀 About Me <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="40">
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" />
 
 ✨ Creating bugs since <strong>2022</strong> <br>
 📚 Currently learning <strong>Front-End Development</strong> <br>
 🎯 Goal: Become a <strong>skilled and reliable developer</strong> <br>
 🎲 Fun fact: I can break code faster than I can fix it 😆  
 </p>
+
 <br><br><br>
 
 ---
 
 <h1 align="center">
-🛠️ My Skills <br>
-
+🛠️ My Skills 
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400">
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" />
@@ -64,11 +74,12 @@ Excited to collaborate and grow as a developer! 🙌
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
-</div>
+### 🔥 IT-Themed Aesthetic Breaker
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
+</p>
 
 ---
 
@@ -91,17 +102,21 @@ Excited to collaborate and grow as a developer! 🙌
 
 <p align="left">
 
-🎮 **Playing Games **  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZxNzZjNHE5MHlxN2l1bHFiNnhmb2JrdHF1N2ZwNGljbzl3bmN2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
+🎮 **Playing Games (Valorant)**  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
 
-📺 **Watching Anime **  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxycmJibXl2b3Fsc3NqNmp6aWtxemN0YXphYmhnbGZxYzNhNjBtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yoJC2GnSClbPOkV0eA/giphy.gif" width="280">
+📺 **Watching Anime (Luffy Gear 5 / Nika)**  
+<img src="https://media.giphy.com/media/iDPCEfH4kRJxY/giphy.gif" width="280">
 
+💻 **Tech Stuff (Coding / Debugging / IT Life)**  
+<img src="https://media.giphy.com/media/3o7bujpFzO2kS3U6oY/giphy.gif" width="280">
 
 </p>
 
 ---
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="500">
+</p>
 
 <h3 align="center">⭐ Thanks for checking out my profile!</h3>

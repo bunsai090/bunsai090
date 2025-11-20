@@ -95,10 +95,9 @@ Excited to collaborate and grow as a developer! 🙌
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZxNzZjNHE5MHlxN2l1bHFiNnhmb2JrdHF1N2ZwNGljbzl3bmN2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
 
 📺 **Watching Anime (Luffy Nika)**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNwbnh0ZDY1ZWJrM2E2YzF1Y3ZsM2RrNmFzZWR2cDRqdXJ0YjdlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RO4P0k5nH0YQ0/giphy.gif" width="280">
+<img src="https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG">
 
-🥎 **Playing Sports (Softball)**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrdXVyNmNmOTQyN2ltYW9hdGM3bjVndnkxdHFlbWdla3FhdnAwcyZlcP12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcO6z2/giphy.gif" width="280">
+="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrdXVyNmNmOTQyN2ltYW9hdGM3bjVndnkxdHFlbWdla3FhdnAwcyZlcP12MV9naWZzX3NlYXJjaCZjdD1n/d31vTpVi1LAcO6z2/giphy.gif" width="280">
 
 </p>
 

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-</p>
 
 <h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
 
@@ -20,6 +17,9 @@
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" />
 
+✨ Hi! I'm **Bunsai** — a passionate **Frontend Developer** and IT student from the Philippines!  
+I love creating clean UI, modern web apps, and learning new technologies every day. 💻🌱  
+
 🌼 My name is <strong>Bunsai</strong>  
 🎂 I'm 20 yrs old  
 📍 From <strong>Zamboanga City, Philippines 🇵🇭</strong>  
@@ -28,6 +28,36 @@
 🌱 I love building cute, responsive & clean UI  
 🎉 Fun fact: I break code faster than I fix it 😆  
 </p>
+
+### 💬 What I Do
+- 🤔 Exploring new technologies and building creative web solutions.  
+- 🌱 Currently learning cloud integration & real-time applications.  
+- 💡 Passionate about frontend dev and clean UI design.  
+- ⚡ I enjoy solving problems and creating modern, responsive web apps.  
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+💙 **HTML5** · 🎨 **CSS3** · ⚡ **JavaScript** · ⚛️ **React.js**
+
+### 🔧 Backend
+🐘 **PHP** · 🟩 **Node.js**
+
+### 🛢 Database
+🗄️ **MySQL** · 🔥 **Firebase**
+
+### 🚀 Version Control & Deployment
+🌍 **Git** · 🐙 **GitHub** · 🧪 **XAMPP** · ☁️ **InfinityFree**
+
+### 🧰 Tools & Design
+🖥 **Cursor** · 🧑‍💻 **VS Code** · 🌬 **Windsurf**  
+🎨 **Figma** · 🖼 **Canva**
+
+---
+
+<h3 align="center">✨ Always learning. Always building. ✨</h3>
 
 <br><br>
 

@@ -2,23 +2,10 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
 </p>
 
-<h1 align="left">Hey 👋 What's up? I'm Codee!!!</h1>
-
-###
-
-<p align="left">My name is <strong>Bunsai</strong>, I'm 20, and I'm from <strong>Zamboanga City</strong> 🇵🇭</p>
-
----
-
-<h2 align="center">
-✨ Passionate Front-End Developer & IT Student <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-</h2>
+<h1 align="center">🌸 Hey 👋 I'm Codee!!! 🌸</h1>
 
 <p align="center">
-I’m currently studying <strong>Information Technology</strong> at <strong>Zamboanga Peninsula Polytechnic State University</strong>.  
-I love creating clean, responsive, and user-friendly designs.  
-Excited to collaborate and grow as a developer! 🙌
+✨ Cute Dev • Front-End Student • IT Enthusiast ✨  
 </p>
 
 ---
@@ -29,27 +16,27 @@ Excited to collaborate and grow as a developer! 🙌
 
 ---
 
-### 🚀 About Me <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="40">
-
+## 💖 About Me
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" />
 
-✨ Creating bugs since <strong>2022</strong> <br>
-📚 Currently learning <strong>Front-End Development</strong> <br>
-🎯 Goal: Become a <strong>skilled and reliable developer</strong> <br>
-🎲 Fun fact: I can break code faster than I can fix it 😆  
+🌼 My name is <strong>Bunsai</strong>  
+🎂 I'm 20 yrs old  
+📍 From <strong>Zamboanga City, Philippines 🇵🇭</strong>  
+🎓 IT Student @ ZPPSU  
+💻 Passionate <strong>Front-End Developer</strong>  
+🌱 I love building cute, responsive & clean UI  
+🎉 Fun fact: I break code faster than I fix it 😆  
 </p>
 
-<br><br><br>
+<br><br>
 
 ---
 
-<h1 align="center">
-🛠️ My Skills 
-</h1>
+## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300">
 </p>
 
 <div align="center">
@@ -76,47 +63,52 @@ Excited to collaborate and grow as a developer! 🙌
 
 ---
 
-### 🔥 IT-Themed Aesthetic Breaker
+## 🌟 Cute IT Aesthetic Break
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
 </p>
 
 ---
 
-<h2 align="center">
-🌐 Socials <br>
-<img src="https://media.giphy.com/media/j5hwdUwj4M3Ly/giphy.gif" width="50">
-</h2>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bunsai090&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunsai090&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunsai090&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50">
+
+### 🎮 Playing Games  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
+
+### 📺 Watching Anime (Luffy Gear 5 / Nika)  
+<img src="https://media.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif" width="280">
+
+### 💻 Tech Stuff (Coding / Debugging / IT Life)  
+<img src="https://media.giphy.com/media/l3q2zVrOcrV3LAbTa/giphy.gif" width="280">
+
+---
+
+## 🌐 Socials  
+<p align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
-</div>
-
----
-
-### 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50">
-
-<p align="left">
-
-🎮 **Playing Games (Valorant)**  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
-
-📺 **Watching Anime (Luffy Gear 5 / Nika)**  
-<img src="https://media.giphy.com/media/iDPCEfH4kRJxY/giphy.gif" width="280">
-
-💻 **Tech Stuff (Coding / Debugging / IT Life)**  
-<img src="https://media.giphy.com/media/3o7bujpFzO2kS3U6oY/giphy.gif" width="280">
-
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="400">
 </p>
 
-<h3 align="center">⭐ Thanks for checking out my profile!</h3>
+<h3 align="center">⭐ Thanks for checking out my profile! ⭐</h3>

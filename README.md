@@ -5,7 +5,7 @@
 <h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
 
 <p align="center">
-✨ Cute Dev • Front-End Student • IT Enthusiast ✨  
+✨ Chill Dev • Front-End Student • IT Enthusiast ✨  
 </p>
 
 ---

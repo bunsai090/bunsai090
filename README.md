@@ -4,14 +4,6 @@
 ✨ Chill Dev • Front-End Student • IT  ✨  
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
-</p>
-
----
-
 ## 💖 About Me
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" />
@@ -51,7 +43,13 @@ I love creating clean UI, modern web apps, and learning new technologies every d
 <br><br>
 
 ---
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+</p>
+
+---
 ## 🛠️ My Skills
 
 <p align="center">

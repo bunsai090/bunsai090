@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
 
 <p align="center">
@@ -37,13 +36,13 @@ I love creating clean UI, modern web apps, and learning new technologies every d
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
--🌐   Frontend: HTML5 | CSS3 | JavaScript | React.js | Axios
--🔧   Backend: PHP | Node.js | Java
--🛢   Database: MySQL | Firebase 
--🚀   Version Control & Deployment: Git | GitHub | XAMPP | InfinityFree
--🧰   Tools & Design: Cursor | VS Code | Windsurf | Figma | Canva | Miro
+- **🌐 Frontend:** HTML5 | CSS3 | JavaScript | React.js | Axios  
+- **🔧 Backend:** PHP | Node.js | Java  
+- **🛢 Database:** MySQL | Firebase  
+- **🚀 Version Control & Deployment:** Git | GitHub | XAMPP | InfinityFree  
+- **🧰 Tools & Design:** Cursor | VS Code | Windsurf | Figma | Canva | Miro  
 
 ---
 

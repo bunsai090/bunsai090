@@ -33,7 +33,7 @@ I love creating clean UI, modern web apps, and learning new technologies every d
 - **🌐 Frontend:** HTML5 | CSS3 | JavaScript | React.js | Axios  
 - **🔧 Backend:** PHP | Node.js | Java  
 - **🛢 Database:** MySQL | Firebase  
-- **🚀 Version Control & Deployment:** Git | GitHub | XAMPP | InfinityFree  
+- **🚀 Version Control & Deployment:** Git | GitHub | XAMPP | InfinityFree | Wamp
 - **🧰 Tools & Design:** Cursor | VS Code | Windsurf | Figma | Canva | Miro  
 
 ---

@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
 
 <p align="center">
-✨ Chill Dev • Front-End Student • IT    
+✨ Chill Dev • Front-End Student • IT   ✨
 </p>
 
 ## 💖 About Me

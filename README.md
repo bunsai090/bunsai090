@@ -128,4 +128,4 @@ I love creating clean UI, modern web apps, and learning new technologies every d
   <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="400">
 </p>
 
-<h3 align="center">⭐ Thanks for checking out my profile! ⭐</h3>
+

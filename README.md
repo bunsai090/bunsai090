@@ -129,3 +129,4 @@ I love creating clean UI, modern web apps, and learning new technologies every d
 </p>
 
 
+<h3 align="center">⭐ Thanks for checking out my profile! ⭐</h3>

@@ -1,93 +1,83 @@
-<h1 align="center"> Hey 👋 I'm bunsai!!! </h1>
+<div align="center">
 
-<p align="center">
-✨ Chill Dev • Front-End Student • IT   ✨
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+<h1>🌸 Hey, I'm <strong>Bunsai</strong>! 🌸</h1>
+
+<p>
+✨ Chill Developer • Front-End Student • IT ✨  
+Learning, building, and growing—one commit at a time.
 </p>
 
-## 💖 About Me
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" />
+</div>
 
-✨ Hi! I'm **Bunsai** — a passionate **Frontend Developer** and IT student from the Philippines!  
-I love creating clean UI, modern web apps, and learning new technologies every day. 💻🌱  
+---
 
-🌼 My name is <strong>Bunsai</strong>  
-🎂 I'm 20 yrs old  
-📍 From <strong>Zamboanga City, Philippines 🇵🇭</strong>  
-🎓 IT Student @ ZPPSU  
-💻 Passionate <strong>Front-End Developer</strong>  
-🌱 I love building cute, responsive & clean UI  
-🎉 Fun fact: I break code faster than I fix it 😆  
-</p>
+## 💖 About Me  
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="260" align="right"/>
 
-### 💬 What I Do
-- 🤔 Exploring new technologies and building creative web solutions.  
-- 🌱 Currently learning cloud integration & real-time applications.  
-- 💡 Passionate about frontend dev and clean UI design.  
-- ⚡ I enjoy solving problems and creating modern, responsive web apps.  
+Hi! I'm **Bunsai**, a passionate **Front-End Developer** and  
+**IT Student from Zamboanga City, Philippines 🇵🇭**.
+
+I enjoy creating **cute, modern, and clean UI** while exploring  
+new tools and technologies every day.
+
+🌼 **Full Name:** Bun Sai  
+🎂 **Age:** 20 yrs old  
+📍 **Location:** Zamboanga City, PH  
+🎓 **Course:** BSIT @ ZPPSU  
+💻 **Focus:** Front-End Development  
+🎉 **Fun fact:** I fix bugs… by creating new ones 😆  
+
+---
+
+## 💬 What I Do
+
+- 🌱 Learning React, APIs & cloud stuff  
+- 🎨 Building clean & responsive UI  
+- 🤔 Improving my problem-solving  
+- 🚀 Exploring modern web development  
+- 💡 Creating projects that help me grow as a dev  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **🌐 Frontend:** HTML5 | CSS3 | JavaScript | React.js | Axios  
-- **🔧 Backend:** PHP | Node.js | Java  
-- **🛢 Database:** MySQL | Firebase  
-- **🚀 Version Control & Deployment:** Git | GitHub | XAMPP | InfinityFree | Wamp
-- **🧰 Tools & Design:** Cursor | VS Code | Windsurf | Figma | Canva | Miro  
+### 🌐 Frontend
+**HTML5 | CSS3 | JavaScript | React.js | TailwindCSS | Axios**
+
+### 🔧 Backend
+**PHP | Node.js | Java**
+
+### 🛢 Databases
+**MySQL | Firebase**
+
+### 🚀 Deployment & Tools
+**Git | GitHub | XAMPP | InfinityFree | Wamp**
+
+### 🧰 Creative Tools
+**VS Code | Cursor | Windsurf | Figma | Canva | Miro**
 
 ---
-
-<h3 align="center">✨ Always learning. Always building. ✨</h3>
-
-<br><br>
-
----
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
-</p>
-
----
-## 🛠️ My Skills
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300">
-</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" />
+  <h2>✨ My Skills ✨</h2>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="280"/>
+  <br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,figma,canva,mysql,java,cpp,arduino&theme=dark&perline=7" />
 </div>
 
 ---
 
-## 🌟 Cute IT Aesthetic Break
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600">
-</p>
+## 🌸 Aesthetic Break  
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bunsai090&show_icons=true&theme=tokyonight" height="170" />
@@ -100,33 +90,31 @@ I love creating clean UI, modern web apps, and learning new technologies every d
 
 ---
 
-## 🎮 My Hobbies <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50">
+## 🎮 Hobbies  
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="60">
 
-### 🎮 Playing Games  
+### 🎮 Gaming  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280">
 
-### 📺 Watching Anime (Luffy Gear 5 / Nika)  
+### 📺 Anime  
 <img src="https://media.giphy.com/media/4Z3DdOZRTcXPa/giphy.gif" width="280">
 
-### 💻 Tech Stuff (Coding / Debugging / IT Life)  
+### 💻 Coding Life  
 <img src="https://media.giphy.com/media/l3q2zVrOcrV3LAbTa/giphy.gif" width="280">
 
 ---
 
 ## 🌐 Socials  
 <p align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
+  <a><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge"/></a>
+  <a><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"/></a>
+  <a><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge"/></a>
+  <a><img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&style=for-the-badge"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="400">
-</p>
-
-
-<h3 align="center">⭐ Thanks for checking out my profile! ⭐</h3>
+<div align="center">
+<img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="400" />
+<h3>⭐ Thanks for visiting my profile! ⭐</h3>
+</div>

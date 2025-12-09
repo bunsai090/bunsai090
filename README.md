@@ -31,7 +31,7 @@
 
 ```typescript
 const angelito = {
-    role: "Full Stack Web Developer",
+    role: "Front End Developer",
     location: "📍 Zamboanga City, Mindanao, Philippines",
     timezone: "Asia/Manila (GMT+8)",
     
@@ -78,9 +78,6 @@ const angelito = {
 
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb,firebase,graphql,redis&theme=dark&perline=5" />
-
-### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,vscode,figma,linux,bash&theme=dark&perline=5" />
 
 </td>
 </tr>

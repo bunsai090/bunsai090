@@ -43,7 +43,7 @@ const johnChristian = {
     techStack: {
         frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
         backend: ["PHP", "Node.js"],
-        databases: ["MySQL", "Firebase, Node.js"],
+        databases: ["MySQL", "Firebase, Node.js, Mysql"],
         tools: ["Git", "VS Code", "Figma", "Canva"]
     },
     

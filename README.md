@@ -44,7 +44,7 @@ const johnChristian = {
         frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
         backend: ["PHP", "Node.js"],
         databases: ["MySQL", "Firebase, Node.js, Mysql"],
-        tools: ["Git", "VS Code", "Figma", "Canva"]
+        tools: ["Git", "VS Code", "Figma", "Canva", "Mirro"]
     },
     
     funFact: "I design first, code later — para clean ang output 😆",

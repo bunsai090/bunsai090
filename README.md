@@ -145,7 +145,7 @@ const johnChristian = {
 <br><br>
 <b>📺 Anime Enthusiast</b>
 <br>
-<sub>One Piece, AOT, JJK</sub>
+<sub>One Piece, Naruto, Bleach,</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljZjVkOWMyYmJkYmE0NWY2ZDk5NWM4NzVjMzJkYTk5NTg5YjJmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SWoRKslHVtqEasqYCJ/giphy.gif" width="80"/>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header: Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Animation"/>
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/seasonalsales/510eefba7ced02981bca521c/page_bg_mobile_english.webp?t=1765401325"/>
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=John+Christian+R.+Saporno;Front+End+Developer;Turning+Ideas+Into+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />

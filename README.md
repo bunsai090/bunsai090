@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 
 <!-- Header: Coding GIF -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt2NzRneGYyZG1uYWFhNG9tMTdmNG5wNWU2eHE1dGVhNW8wZWdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif"/>

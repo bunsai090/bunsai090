@@ -86,7 +86,7 @@ const johnChristian = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/codeyatoh">
+<a href="https://github.com/bunsai090">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyatoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/codeyatoh">

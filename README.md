@@ -3,9 +3,11 @@
 <!-- Header: Coding GIF -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt2NzRneGYyZG1uYWFhNG9tMTdmNG5wNWU2eHE1dGVhNW8wZWdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=John+Christian+R.+Saporno;Front+End+Developer;Turning+Ideas+Into+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />
+
+  <h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=John+Christian+R.+Saporno;Front+End+Developer" alt="Typing SVG" />
 </h1>
+
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Creating+clean+and+modern+UI+%F0%9F%96%A5;20+Years+Old+%E2%9C%A8;From+Zamboanga+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Building+responsive+and+interactive+web+apps+%F0%9F%92%BB" alt="Subtitle" />

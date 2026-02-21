@@ -98,7 +98,7 @@ const johnChristian = {
 <a href="https://github.com/bunsai090">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyatoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
-<a href="https://github.com/codeyatoh">
+<a href="https://github.com/bunsai090">
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=codeyatoh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
 </a>
 </p>

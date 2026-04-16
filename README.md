@@ -1,1 +1,223 @@
+<div align="center">
+
+<!-- Header: Coding GIF -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g0dDlzM24zeGVzZzVqdzcybGhzNHd0cjdieGEwNTZxb3A1YTU2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif"/>
+
+
+  <h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=John+Christian+R.+Saporno;Front+End+Developer" alt="Typing SVG" />
+</h1>
+
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Creating+clean+and+modern+UI+%F0%9F%96%A5;20+Years+Old+%E2%9C%A8;From+Zamboanga+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Building+responsive+and+interactive+web+apps+%F0%9F%92%BB" alt="Subtitle" />
+</p>
+
+<!-- Badges -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=bunsai090&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/bunsai090?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Coding%20Everyday%20%F0%9F%92%BB-00d9ff?style=for-the-badge&labelColor=1a1b27" alt="status" />
+</p>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
+
+```typescript
+const johnChristian = {
+    name: "John Christian R. Saporno",
+    age: 20,
+    role: "Front End Developer",
+    location: "📍 Zamboanga City, Mindanao, Philippines",
+    timezone: "Asia/Manila (GMT+8)",
+    
+    currentlyWorkingOn: [
+        "🎨 Modern UI/UX with React",
+        "📱 Responsive layouts for all screen sizes",
+        "⚡ Smooth user interactions & animations",
+        "🌐 Front-end web applications with APIs"
+    ],
+    
+    techStack: {
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+        backend: ["PHP", "Node.js"],
+        databases: ["MySQL", "Firebase, Node.js, Mysql"],
+        tools: ["Git", "VS Code", "Figma", "Canva", "Mirro"]
+    },
+    
+    funFact: "I design first, code later — para clean ang output 😆",
+    philosophy: "Simple UI + Clean Code = 🔥",
+};
+
+```
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,vite,webpack&theme=dark&perline=5" />
+
+### 📱 Mobile Development  
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark&perline=5" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb,firebase,graphql,redis&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/bunsai090">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyatoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/codeyatoh">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyatoh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/bunsai090">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyatoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+<a href="https://github.com/bunsai090">
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=codeyatoh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/codeyatoh">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeyatoh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
+</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<br><br>
+<h3>🌐 Full Stack Architecture</h3>
+<p>Building scalable enterprise applications with React, Node.js, and cloud-native technologies</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<br><br>
+<h3>🔐 API Security</h3>
+<p>Implementing robust authentication, authorization, and data protection strategies</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80"/>
+<br><br>
+<h3>📱 Mobile-First PWAs</h3>
+<p>Creating offline-capable progressive web applications with seamless UX</p>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> When I'm Not Coding...
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80"/>
+<br><br>
+<b>📺 Anime Enthusiast</b>
+<br>
+<sub>One Piece, Naruto, Bleach,</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljZjVkOWMyYmJkYmE0NWY2ZDk5NWM4NzVjMzJkYTk5NTg5YjJmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SWoRKslHVtqEasqYCJ/giphy.gif" width="80"/>
+<br><br>
+<b>🎮 Gaming</b>
+<br>
+<sub>RPGs & Strategy Games</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"/>
+<br><br>
+<b>🎨 UI/UX Design</b>
+<br>
+<sub>Figma & Design Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB2OGNzODN4MWN1aWZ4NGk2ZjRiZWduaWRrMXJyYmtzY2lhYzJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+<br><br>
+<b>🎵 Music</b>
+<br>
+<sub>Lo-fi & Electronic</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="25"> Connect With Me
+
+<p align="center">
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+</a>
+
+<a href="https://www.instagram.com/buuunnnsaii/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
+
+<a href="https://x.com/bunsai666">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+</a>
+
+</p>
+
+
+<br>
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code." - John Johnson</i>
+</p>
+
+<br>
+
+<!-- Snake Animation -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br><br>
+
+<!-- Dynamic Quote -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<br><br>
+
+<!-- Footer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Footer"/>
+
+</div>
 

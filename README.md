@@ -87,25 +87,25 @@ const johnChristian = {
 
 <p align="center">
 <a href="https://github.com/bunsai090">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyatoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bunsai090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/codeyatoh">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyatoh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<a href="https://github.com/bunsai090">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bunsai090&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/bunsai090">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyatoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bunsai090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 <a href="https://github.com/bunsai090">
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=codeyatoh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=bunsai090&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/codeyatoh">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeyatoh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
+<a href="https://github.com/bunsai090">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bunsai090&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
 </a>
 </p>
 
@@ -204,7 +204,7 @@ const johnChristian = {
 
 <!-- Snake Animation -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bunsai090/bunsai090/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br><br>

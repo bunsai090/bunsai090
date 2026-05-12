@@ -1,12 +1,3 @@
-<div align="center">
-
-<!-- Header: Coding GIF -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g0dDlzM24zeGVzZzVqdzcybGhzNHd0cjdieGEwNTZxb3A1YTU2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif"/>
-
-  <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=John+Christian+R.+Saporno;Front+End+Developer" alt="Typing SVG" />
-</h1>
-
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Creating+clean+and+modern+UI+%F0%9F%96%A5;20+Years+Old+%E2%9C%A8;From+Zamboanga+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Building+responsive+and+interactive+web+apps+%F0%9F%92%BB" alt="Subtitle" />
